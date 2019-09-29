@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-09-29T05:23:36.905+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Unable to connect to Redis; nested exception is io.lettuce.core.RedisConnectionException: Unable to connect to localhost:6379",
+  "path": "/message"
+}

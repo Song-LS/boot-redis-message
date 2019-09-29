@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-09-29T05:26:35.816+0000",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Request method 'GET' not supported",
+  "path": "/message"
+}
